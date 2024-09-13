@@ -1,0 +1,11 @@
+<extentreports>
+    <configuration>
+        <reportName>Automation Test Report</reportName>
+        <theme>standard</theme>
+        <documentTitle>Test Automation Results</documentTitle>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+        <locale>en</locale>
+    </configuration>
+</extentreports>
